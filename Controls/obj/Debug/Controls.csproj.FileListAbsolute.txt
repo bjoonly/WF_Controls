@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Controls\Controls\bin\Debug\Controls.exe.config
+C:\Users\Admin\source\repos\Controls\Controls\bin\Debug\Controls.exe
+C:\Users\Admin\source\repos\Controls\Controls\bin\Debug\Controls.pdb
+C:\Users\Admin\source\repos\Controls\Controls\obj\Debug\Controls.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Controls\Controls\obj\Debug\Controls.Form1.resources
+C:\Users\Admin\source\repos\Controls\Controls\obj\Debug\Controls.Properties.Resources.resources
+C:\Users\Admin\source\repos\Controls\Controls\obj\Debug\Controls.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Controls\Controls\obj\Debug\Controls.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Controls\Controls\obj\Debug\Controls.exe
+C:\Users\Admin\source\repos\Controls\Controls\obj\Debug\Controls.pdb
